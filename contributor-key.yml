@@ -737,7 +737,10 @@
 - github      : kewljuice
   name        : Wouter Hechtermans
   organization: Calibrate
-
+  
+- github      : kgoess
+  name        : Kevin M. Goess
+  
 - github      : khorporative
   name        : Aivars
 
